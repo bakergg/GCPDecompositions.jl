@@ -69,8 +69,8 @@ md"""
 # ╔═╡ 038c9c6a-a369-4504-8783-2a4c56c051ae
 html"""
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://gitlab.com/tensors/tensor_data_monkey_bmi/-/raw/main/graphics/monkey_bmi_graphic.png" alt="Monkey BMI Graphic" style="width: 45%;">
-    <img src="https://gitlab.com/tensors/tensor_data_monkey_bmi/-/raw/main/graphics/monkey_bmi_cursors.png" alt="Monkey BMI Cursors" style="width: 45%;">
+    <img src="https://i.postimg.cc/s2WgLJZS/monkey-bmi-graphic.png" alt="Monkey BMI Graphic" style="width: 45%;">
+    <img src="https://i.postimg.cc/W3P1cJMy/monkey-bmi-cursors.png" alt="Monkey BMI Cursors" style="width: 45%;">
 </div>
 """
 
@@ -200,7 +200,7 @@ md"""
 """
 
 # ╔═╡ 0d23f2ab-6e67-4aa1-aa58-4ced0da1d26e
-M = gcp(X,10);
+M = gcp(X,10)
 
 # ╔═╡ 2017d76d-1a5e-447d-b569-9edbb5c2cd13
 NM = gcp(X, 10; loss = GCPLosses.NonnegativeLeastSquares());
@@ -1874,7 +1874,7 @@ version = "3.5.0+0"
 # ╠═37e16313-e5c8-45c7-9e3b-b8bc48645f90
 # ╠═c0357086-02d5-4223-9bf6-b69b4d5efab4
 # ╟─c2de9482-7a09-4540-83d3-8d434200683a
-# ╟─038c9c6a-a369-4504-8783-2a4c56c051ae
+# ╠═038c9c6a-a369-4504-8783-2a4c56c051ae
 # ╟─52d5d6d5-f331-4d4b-a150-577706b3f87a
 # ╟─1f95ecf2-f166-4e24-b124-d950cf4942d9
 # ╠═14a0cf26-0003-45fe-b03c-8ad0140d26b2
@@ -1883,7 +1883,7 @@ version = "3.5.0+0"
 # ╟─f1266f66-0baf-45fa-aa20-a6279bff5cd8
 # ╠═0d23f2ab-6e67-4aa1-aa58-4ced0da1d26e
 # ╠═2017d76d-1a5e-447d-b569-9edbb5c2cd13
-# ╟─09b91268-7365-4cae-88ce-21ab78e0ce8c
+# ╠═09b91268-7365-4cae-88ce-21ab78e0ce8c
 # ╠═447abdef-4d8e-45ce-b7c3-2c7bfc8f0ae3
 # ╟─00ce15cd-404a-458e-b557-e1b5c55c41c2
 # ╟─00000000-0000-0000-0000-000000000001

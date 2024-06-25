@@ -69,8 +69,9 @@ md"""
 # ╔═╡ 038c9c6a-a369-4504-8783-2a4c56c051ae
 html"""
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://i.postimg.cc/s2WgLJZS/monkey-bmi-graphic.png" alt="Monkey BMI Graphic" style="width: 45%;">
-    <img src="https://i.postimg.cc/W3P1cJMy/monkey-bmi-cursors.png" alt="Monkey BMI Cursors" style="width: 45%;">
+    <img src="https://i.postimg.cc/sfG9fFCC/imresizer-1719339542763.png
+" style="width: 45%;">
+    <img src="https://i.postimg.cc/dtMRLWJk/imresizer-1719339520326.png" style="width: 45%;">
 </div>
 """
 
